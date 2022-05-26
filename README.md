@@ -1,4 +1,14 @@
-## Hello eu sou a Vitor Dias, criador de conteúdo de programação e tecnologia!
+
+🔥 Junior Front End Developer & Content Creator
+
+🔭 I’m currently working at Infraestrutura
+
+
+▶️ I regularly post videos on youtube.com/vitortech
+
+💬 Go to talk about JavaScript, HTML, CSS, SQL, Node.JS
+
+⚡ Fun fact i have 1.90 😜
 <div align="center">
   <a href="https://github.com/VitorAlmeida1998">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorAlmeida1998&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
