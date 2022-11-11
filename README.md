@@ -1,5 +1,5 @@
 
-🔥 Junior Front End Developer & Content Creator
+🔥 Software Developer Junior 
 
 🔭 I’m currently working at Infraestrutura
 
