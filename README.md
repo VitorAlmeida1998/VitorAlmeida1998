@@ -1,6 +1,5 @@
 
-🔥 Software Developer Junior 
-
+🔥 Devops/SRE Analist Junior
 🔭 I’m currently working at Infraestrutura
 
 
