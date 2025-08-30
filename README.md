@@ -1,5 +1,5 @@
 
-🔥 Devops/SRE Analist Junior
+🔥 Devops/SRE Analist 
 🔭 I’m currently working at Infraestrutura
 
 
